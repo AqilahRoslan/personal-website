@@ -1,0 +1,83 @@
+body
+	{
+		background-color: #dbdcff;
+	}
+p 
+	{
+		font-family: 'Pompiere', cursive, bold;
+		font-size: 25px;
+		color: #5e3c58;
+	}
+
+
+h1 
+	{
+		font-family: "Homemade Apple";
+		font-size: 55px;
+		color: #4c7aa9;
+		border-radius: 200px;
+		border-spacing: 15px;
+
+	}
+h2
+	{
+		font-family: "verdana";
+		font-size: 40px
+		color: pink;
+
+	}
+
+h3
+	{
+		font-family: "Ruge Boogie";
+		font-size: 50px;
+		color: #ae8ebe;
+		background-color:  	#f1cbff;
+		border: 3px dotted;
+		border-color: #ae8ebe;
+		padding: 15px;
+		border-radius: 60px;
+
+	}
+
+h4
+	{
+		font-family: 'Euphoria Script', cursive;
+		font-size: 30px;
+		color: #ae8ebe;
+		background-color: #d1d2ff;
+		display: inline-block;
+		border: 2px dotted;
+		border-radius: 10px;
+	}
+
+h5
+	{
+		font-family: 'Metal Mania', cursive;
+		font-size: 30px;
+		color: #5e3c58;
+		background-color: #d7c6cf;
+		border: 1px dotted;
+		display: inline-block;
+		border-radius: 10px;
+	}
+
+a:link, a:visited
+	{
+		background-color: #ffd4e5 ;
+		color: #4c7aa9;
+		font-family: 'Big Shoulders Stencil Text', cursive;
+		padding: 10px;
+		text-align: center;
+		text-decoration: blink;
+		display: inline-block;
+		border-radius: 50px;
+		
+	}
+			
+a:hover, a:active
+	{
+		background-color: #d1d2ff;
+		color: PaleVioletRed;
+		
+	}
