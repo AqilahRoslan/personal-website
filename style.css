@@ -80,7 +80,7 @@ a:hover, a:active
 		background-color: #d1d2ff;
 		color: PaleVioletRed;
 	}	
-	
+
 tr
 	{
 		position: center;
@@ -103,4 +103,15 @@ td
 		font-size: 25px;
 		color: #5e3c58;
 		text-align: center;
+	}
+
+ul
+	{
+		font-family: 'Euphoria Script', cursive;
+		font-size: 30px;
+		color: #ae8ebe;
+		background-color: #d1d2ff;
+		display: inline-block;
+		border: 2px dotted;
+		border-radius: 10px;
 	}
