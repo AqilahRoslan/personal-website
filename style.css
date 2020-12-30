@@ -85,18 +85,28 @@ a:hover, a:active
 img
 	{
 		border: 2px;
+		background-color: blue;
 	}
 
 tr
 	{
 		position: center;
+		font-family: 'Pompiere', cursive, bold;
+		font-size: 25px;
+		color: #5e3c58;
 	}
 th
 	{
 		position: center;
+		font-family: 'Pompiere', cursive, bold;
+		font-size: 25px;
+		color: #5e3c58;
 	}
 
 td
 	{
 		position: center;
+		font-family: 'Pompiere', cursive, bold;
+		font-size: 25px;
+		color: #5e3c58;
 	}
