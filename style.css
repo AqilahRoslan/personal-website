@@ -79,15 +79,8 @@ a:hover, a:active
 	{
 		background-color: #d1d2ff;
 		color: PaleVioletRed;
-		
-	}
-
-img
-	{
-		border: 2px;
-		
-	}
-
+	}	
+	
 tr
 	{
 		position: center;
