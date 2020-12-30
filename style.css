@@ -21,9 +21,13 @@ h1
 	}
 h2
 	{
-		font-family: "verdana";
-		font-size: 40px
-		color: pink;
+		font-family: 'Rancho', cursive;
+		font-size: 20px
+		color: #9775a9;
+		background-color: #d1d2ff;
+		display: inline-block;
+		border: 2px dotted;
+		border-radius: 10px;
 
 	}
 
@@ -107,9 +111,9 @@ td
 
 ul
 	{
-		font-family: 'Euphoria Script', cursive;
+		font-family: 'Fredericka the Great', cursive;
 		font-size: 30px;
-		color: #ae8ebe;
+		color: #755785;
 		background-color: #d1d2ff;
 		display: inline-block;
 		border: 2px dotted;
