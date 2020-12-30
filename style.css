@@ -119,3 +119,8 @@ ul
 		border: 2px dotted;
 		border-radius: 10px;
 	}
+
+audio
+	{
+		object-position: center;
+	}
