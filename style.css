@@ -85,7 +85,7 @@ a:hover, a:active
 img
 	{
 		border: 2px;
-		background-color: blue;
+		
 	}
 
 tr
@@ -109,4 +109,5 @@ td
 		font-family: 'Pompiere', cursive, bold;
 		font-size: 25px;
 		color: #5e3c58;
+		text-align: center;
 	}
